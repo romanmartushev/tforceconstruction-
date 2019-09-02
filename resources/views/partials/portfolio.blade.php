@@ -8,45 +8,45 @@
         </div>
         <div class="row">
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <img class="img-fluid" src="img/main/portfolio/home1.jpeg" alt="">
+                <img class="img-fluid" src="img/past-projects/project1/before.jpg" alt="">
                 <div class="portfolio-caption">
-                    <h4>Name</h4>
+                    <h4>Before</h4>
+                    <p class="text-muted">7201 NE 8th Ave., Portland, OR</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <img class="img-fluid" src="img/past-projects/project2/before.png" alt="">
+                <div class="portfolio-caption">
+                    <h4>Before</h4>
+                    <p class="text-muted">544 N 10th St. , Saint Helens, OR</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <img class="img-fluid" src="img/past-projects/project3/before.jpg" alt="">
+                <div class="portfolio-caption">
+                    <h4>Before</h4>
+                    <p class="text-muted">720 McLoughlin BLVD, Oregon City, OR</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <img class="img-fluid" src="img/past-projects/project1/after.jpg" alt="">
+                <div class="portfolio-caption">
+                    <h4>After</h4>
                     <p class="text-muted">description</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <img class="img-fluid" src="img/main/portfolio/home1.jpeg" alt="">
+                <img class="img-fluid" src="img/past-projects/project2/after.jpg" alt="">
                 <div class="portfolio-caption">
                     <h4>Name</h4>
-                    <p class="text-muted">description</p>
+                    <p class="text-muted">544 N 10th St. , Saint Helens, OR</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <img class="img-fluid" src="img/main/portfolio/home1.jpeg" alt="">
+                <img class="img-fluid" src="img/past-projects/project3/after.jpg" alt="">
                 <div class="portfolio-caption">
-                    <h4>Name</h4>
-                    <p class="text-muted">description</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <img class="img-fluid" src="img/main/portfolio/home1.jpeg" alt="">
-                <div class="portfolio-caption">
-                    <h4>Name</h4>
-                    <p class="text-muted">description</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <img class="img-fluid" src="img/main/portfolio/home1.jpeg" alt="">
-                <div class="portfolio-caption">
-                    <h4>Name</h4>
-                    <p class="text-muted">description</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <img class="img-fluid" src="img/main/portfolio/home1.jpeg" alt="">
-                <div class="portfolio-caption">
-                    <h4>Name</h4>
-                    <p class="text-muted">description</p>
+                    <h4>After</h4>
+                    <p class="text-muted">720 McLoughlin BLVD, Oregon City, OR</p>
                 </div>
             </div>
         </div>
