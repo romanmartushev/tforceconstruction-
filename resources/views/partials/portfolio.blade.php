@@ -38,7 +38,7 @@
             <div class="col-md-4 col-sm-6 portfolio-item">
                 <img class="img-fluid" src="img/past-projects/project2/after.jpg" alt="">
                 <div class="portfolio-caption">
-                    <h4>Name</h4>
+                    <h4>After</h4>
                     <p class="text-muted">544 N 10th St. , Saint Helens, OR</p>
                 </div>
             </div>
