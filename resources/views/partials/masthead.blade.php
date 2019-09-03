@@ -1,9 +1,7 @@
 <header class="masthead">
-    <div class="container">
-        <div class="intro-text">
-{{--            <div class="intro-lead-in">Welcome!</div>--}}
-            {{--<div class="intro-heading text-uppercase">It's Nice To Meet You</div>--}}
-{{--            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>--}}
+    <div class="container no-gutters p-0 w-100 m-0 mt-5" style="max-width: 100vw">
+        <div class="row">
+            <img src="/img/main/logo-horizontal.jpg" class="img-fluid mx-auto"/>
         </div>
     </div>
 </header>
